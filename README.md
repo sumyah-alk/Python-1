@@ -5,3 +5,10 @@ The first step in your journey to learning a new programming language is to choo
 
 
 ## STEP 1 : Setting up python in VS Code
+
+1) Download Python
+
+
+   https://www.python.org/downloads/
+
+2)To check if python has been installed, open the command prompt , then write python --version
